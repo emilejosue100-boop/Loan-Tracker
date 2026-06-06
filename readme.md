@@ -52,7 +52,7 @@ calculations, and adding AI assistance to every decision.
 
 ### Installation
 1. Clone this repository:
-   git clone https://github.com/your-username/loan-tracker.git
+   git clone https://github.com/emilejosue100-boop/Loan-Tracker.git
 
 2. Navigate to the project folder:
    cd loan-tracker

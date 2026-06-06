@@ -103,6 +103,9 @@ build on it.
 
 Connect on LinkedIn: https://www.linkedin.com/in/josuengolo
 
+## Demo Video
+Watch the app in action: https://youtu.be/3XupCFR66-A
+
 ## Version 2.0 — Coming Soon
 This first version establishes the core features of MicroFinance Manager. 
 The following improvements are planned for Version 2.0:

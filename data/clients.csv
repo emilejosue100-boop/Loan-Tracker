@@ -1,2 +1,7 @@
 name,age,business_field,business_name,loan_amount,month_active,amount_paid,repayment_period,is_member
 
+elon  musk ,44,technology,spacex,2000.0,3,12.0,12,True
+enzo francis,20,Consulting ,X Consulting ,3000.0,3,500.0,12,False
+enzo francis,20,Consulting ,X Consulting ,3000.0,3,500.0,12,False
+Enzo,25,Technology,Space X,4000.0,5,1500.0,12,True
+Enzo Mareck,23,Health,Heal the world,4000.0,3,500.0,12,False
